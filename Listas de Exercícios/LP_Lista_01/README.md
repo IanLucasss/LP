@@ -51,7 +51,7 @@ ter nota igual ou superior à 50 e frequência igual ou superior a 75%.
       input1-->input2[\Digite o segundo número\]
       input2-->operacao[ Resultado=N1+N2 ]
       operacao-->resultado[/resultado/]
-      resultado-->final[(Final)]
+      resultado-->final([Final])
    ```
    
 4. Elabore um fluxograma que leia um número e exiba se ele é positivo ou negativo.
