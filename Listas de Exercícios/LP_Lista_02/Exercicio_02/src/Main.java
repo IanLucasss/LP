@@ -6,10 +6,10 @@ public class Main {
 
         int number, result;
 
-        System.out.println("Digite um número qualquer para saber o seu dobro :");
+        System.out.println("Digite um número qualquer para saber o seu quadrado :");
         number = in.nextInt();//utilização do scanner
 
-        result = number * 2;
+        result = number * number;
         System.out.println("O dobro de " + number + " é " + result);
     }
 }
