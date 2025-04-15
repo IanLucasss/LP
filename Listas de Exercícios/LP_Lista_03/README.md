@@ -68,7 +68,11 @@ Para mais informações acesse [Aula 04: Estruturas de decisão.](https://cainaa
     Resultado: 2.0 x 3.0 = 6.0
     ```
 
-13. Calculadora geométrica: exibir em um menu a opção de escolha entre três formageométricas: círculo, triangulo retângulo ou retângulo. Após a seleção da opção oprograma deverá solicitar que o usuário insira os dados necessário para realizar os cálculos de área e perímetro da forma selecionada, os resultados devem ser exibidos em seguida.Exemplo:
+13. Calculadora geométrica: exibir em um menu a opção de escolha entre três 
+formageométricas: círculo, triangulo retângulo ou retângulo. Após a seleção 
+da opção oprograma deverá solicitar que o usuário insira os dados necessário para realizar 
+os cálculos de área e perímetro da forma selecionada, os resultados devem ser exibidos em seguida
+.Exemplo:
 
     ```plaintext 
     Menu:

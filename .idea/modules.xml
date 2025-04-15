@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exemplo_aula_vetores/Exemplo_aula_vetores.iml" filepath="$PROJECT_DIR$/Exemplo_aula_vetores/Exemplo_aula_vetores.iml" />
       <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_02/ExercIcio_01/ExercIcio_01.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_02/ExercIcio_01/ExercIcio_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_02/Exercicio_02/Exercicio_02.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_02/Exercicio_02/Exercicio_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_02/Exercicio_03/Exercicio_03.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_02/Exercicio_03/Exercicio_03.iml" />
@@ -22,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_02/Exercicio_19/Exercicio_19.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_02/Exercicio_19/Exercicio_19.iml" />
       <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_03/Exercicio_2/Exercicio_2.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_03/Exercicio_2/Exercicio_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_02/Exercicio_20/Exercicio_20.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_02/Exercicio_20/Exercicio_20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio_aula_matrizes/Exercicio_aula_matrizes.iml" filepath="$PROJECT_DIR$/Exercicio_aula_matrizes/Exercicio_aula_matrizes.iml" />
       <module fileurl="file://$PROJECT_DIR$/LP.iml" filepath="$PROJECT_DIR$/LP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_04/exercicio01/exercicio01.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_04/exercicio01/exercicio01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_04/exercicio05/exercicio05.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_04/exercicio05/exercicio05.iml" />
@@ -33,6 +35,9 @@
       <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_03/exercicio_08/exercicio_08.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_03/exercicio_08/exercicio_08.iml" />
       <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_03/exercicio_09/exercicio_09.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_03/exercicio_09/exercicio_09.iml" />
       <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_03/exercicio_10/exercicio_10.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_03/exercicio_10/exercicio_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_03/exercicio_11/exercicio_11.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_03/exercicio_11/exercicio_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_03/exercicio_12/exercicio_12.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_03/exercicio_12/exercicio_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_03/exercicio_13/exercicio_13.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_03/exercicio_13/exercicio_13.iml" />
       <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_03/exercicio_15/exercicio_15.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_03/exercicio_15/exercicio_15.iml" />
     </modules>
   </component>
