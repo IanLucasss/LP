@@ -89,7 +89,7 @@ os cálculos de área e perímetro da forma selecionada, os resultados devem ser
     Perímetro = 12
     ```
 
-14. Crie um sistema de vendas onde o usuário insere o valor da compra e escolhe a formade pagamento que pode ser: débito, crédito ou pix. Após escolher a forma de pagamentoo sistema deve mostrar o total a pagar que deve seguir as seguintes regras:
+14. Crie um sistema de vendas onde o usuário insere o valor da compra e escolhe a forma de pagamento que pode ser: débito, crédito ou pix. Após escolher a forma de pagamentoo sistema deve mostrar o total a pagar que deve seguir as seguintes regras:
 
     - **Débito:** Conceder desconto de 5%.
     - **Pix:** Conceder desconto de 10%.
