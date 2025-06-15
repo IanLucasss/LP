@@ -9,7 +9,7 @@ ___
 
 
 > O objetivo desta aula é compreender como os dados podem ser armazenados e manipulados em estruturas de vetores e matrizes.
-
+1  5
 Vetores e matrizes são estruturas de dados que armazenam múltiplos valores de um mesmo tipo, permitindo organização e acesso eficiente às informações. Vetores são unidimensionais, enquanto matrizes possuem duas ou mais dimensões, sendo fundamentais para representar tabelas, imagens e cálculos matemáticos. Seu uso otimiza o processamento de dados, possibilitando operações em larga escala e facilitando a manipulação de grandes conjuntos de informações em algoritmos e aplicações diversas.
 
 Para mais informações acesse [Aula 06: Vetores e Matrizes.](https://cainaantunes.notion.site/Aula-06-Vetores-189bde521b3b8086b846fa65fc665a0b?pvs=4)
