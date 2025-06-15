@@ -18,6 +18,5 @@ public class Main {
 
         v2 = v1+(aceleration*time);
         System.out.printf("A velocidade final do corpo é de: %.2f", v2);
-
         }
     }

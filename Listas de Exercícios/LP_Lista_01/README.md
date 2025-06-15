@@ -148,8 +148,17 @@ ter nota igual ou superior à 50 e frequência igual ou superior a 75%.
    ```
    
 10. Elabore um fluxograma para verificar se um número digitado pelo usuário é primo.
-   
-   ```mermaid
-   flowchart TD
-      I["Sua resposta aqui!"]
-   ```
+
+```mermaid
+flowchart TD
+   start((Início)) --> input[\Digite um número\]
+   input --> set_i[\i = 2\]
+   set_i --> set_primo[\isPrimo = verdadeiro\]
+   set_primo --> condicao{ i < número? }
+   condicao -->|Sim| verifica_divisao{ número % i == 0? }
+verifica_divisao -->|Sim| nao_primo[/Número não é primo/]
+verifica_divisao -->|Não| incrementa_i[\i = i + 1\] --> condicao
+condicao -->|Não| primo[/Número é primo/]
+nao_primo --> fim([Fim])
+primo --> fim
+```
